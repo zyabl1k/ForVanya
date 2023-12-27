@@ -19,9 +19,10 @@ body {
     flex-direction: column;
     width: 100%;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 20px;
     padding: 20px 10px;
+    height: 100vh;
 }
 
 .wrapper h1 {
